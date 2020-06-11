@@ -61,6 +61,7 @@ Todo
 
 wget https://vue-chess-dependencies-enczdtjzdy.now.sh/
 7z x node_modules.7z
+w
 
 
 # serve with hot reload at localhost:8080
